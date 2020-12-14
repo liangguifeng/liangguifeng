@@ -1,3 +1,3 @@
 # Hi there 👋
 
-I'm liangguifeng - a PHP developer.
+I'm liangguifeng - a PHP&GoLang developer.
