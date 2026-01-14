@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=liangguifeng&label=Profile%20views&color=0e75b6&style=flat" alt="liangguifeng" /> </p>
 
-<p align="left"> <a href="https://github.com/liangguifeng"><img src="https://github-profile-trophy-fork-two.vercel.app/?username=liangguifeng" alt="liangguifeng" /></a> </p>
+<p align="left"> <a href="https://github.com/liangguifeng"><img src="https://github-profile-trophy-fork-two.vercel.app/?username=liangguifeng&row=1&column=8&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="liangguifeng" /></a> </p>
 
 - 🔭 I’m currently working on [Hainan Duty Free](https://m.hltmsp.com/)
 
