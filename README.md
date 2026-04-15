@@ -116,11 +116,8 @@
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.shion.dev/api?username=liangguifeng&theme=outrun&hide_border=false&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=liangguifeng&theme=outrun&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</div>
-
-<div align="center">
   <img height="170" src="https://streak-stats.demolab.com/?user=liangguifeng&theme=outrun&hide_border=false" />
+  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=liangguifeng&theme=outrun&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 
 ---
