@@ -125,46 +125,11 @@
 
 ---
 
-## 🏆 Achievement Board
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=liangguifeng&theme=radical&no-frame=false&no-bg=false&margin-w=8&margin-h=8" />
-</div>
-
----
-
-## 📈 Contribution Pulse
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=liangguifeng&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</div>
-
----
-
 ## ✍️ Dev Signal
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
-
----
-
-## 🧠 Current Mission Log
-
-```yaml
-status: online
-mode: building
-interests:
-  - backend architecture
-  - cloud native
-  - performance tuning
-  - distributed systems
-  - open source exploration
-goal:
-  - write cleaner code
-  - build tougher systems
-  - keep learning new things
-```
 
 ---
 
